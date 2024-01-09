@@ -1,4 +1,6 @@
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 # Planning Pocker
 
 This is a project to help with sprint planning, where you can vote and at the end display the points and average, which is based on Node.js, Websocket and Typescript.
